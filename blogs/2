@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <style>
+        body {
+            background-image: url('https://fgnwbsite.github.io/images/background.jpg');
+        }
+        .body {
+            font-family: 'Times New Roman';
+            width: 100em;
+            border: 2px solid black;
+            margin-bottom: 1em;
+            padding: 3em;
+        }
+        .resources {
+            font-family: 'Times New Roman';
+            width: 110em;
+            border: 2px solid black;
+            margin-bottom: 1em;
+            padding: 1em;
+        }
+        .center{
+            text-align:center;
+        }
+        h2 {
+            border-width: 2px;
+            border-radius: 25px;
+            border-color: gray;
+            width: 11%;
+            border-style: solid;
+            padding: 5px;
+            margin-left: 10px;
+        }
+    </style>
+    <meta charset="utf-8" />
+    <title>#2 - 2/25/26</title>
+</head>
+<body>
+    <h1 style="text-align:center" ;>Blog #2 - 3/4/2026</h1>
+    <h2>Updates and Quotes</h2>
+    <div class="body">
+
+        <p style="font-size:20" ;>
+            Today was strenuous on the brain. I wont say why, as too much detail can 'screw the pooch'!
+            That's not to say much, however, as it doesn't<br /> really mean much at all.
+            I've attempted to make some updates to the site's formatting (to make it look a bit better), and I think that I've done a good job thus far.
+            Each day should<br /> be better and better, though, I worry
+            that at some point updating each page will become tiresome! Formats on some
+            may be abanonded to time, though, I think that's part of the project, so as to see the<br /> progress.
+            Anyhow, I figured this would be a good spot to post some quotes I enjoyed from the book I'm currenty reading: <b>The Plague</b> by Albert Camus.
+        </p>
+        <p style="font-size:20" ;>
+            But first! I need to mention that I'm making this page and blog and everything else by learning HTML. It's a day to day process, but I
+            obviously copied that cool little circled title from some <br />
+            stackoverflow.com page - It's like what AI does but I'm doing it instead! Slowly but surely, I shall learn more and more. One day, perhaps,
+            this site will look really really cool, though, I want to add that I plan on<br />
+            keeping it in this style, so to preserve the old-school
+            internet look. Things are too flashy today, and it's annoying. I suppose I hate everything new! Everything sucks!<br />
+            Perhaps now it's easy to understand boomers; not really though. Things would suck less if I owned a house...maybe.
+            <br /><br />
+            Anyways:
+            <br />
+            <br />
+            <p><i>
+              "...Well-meaning speakers tried to voice their fellow-feeling, and indeed did so, but at the same time proved the utter incapacity of
+              every man truly to share in suffering that he cannot see. "Oran! Oran!" in vain the call rang out over oceans, in vain Rieux listened
+              hopefully; always the tide of eloquence began to flow, bringing home still more the unbridgeable gulf that lay between Gran and the speaker.
+              "Oran, we're with you!" they called emotionally. But not, the doctor told himself, to love or to die together - "and that's the only way.
+                  they're too remote."</i> - page 138
+            </p>
+            </br>
+            </br>
+            <p>
+                <i>"...And when one day Rambert told him that he liked waking up at four in the morning and thinking of his beloved Paris, the doctor
+                guessed easily enough, basing this on his own experience, that that was his favorite time for conjuring up pictures of the woman from whom
+                he now was parted. THis was, indeed, the hour when he could feel surest she was wholly his. Till four in the morning one is seldom doing
+                anything and at that hour, even if the night has been a night of betrayal, one is asleep. Yes, everyone sleeps at that hour, and this is
+                reassuring, since the great longing of an unquiet heart is to possess constantly and consciously the loved one, when a time of absence
+                intervenes, into a dreamless sleep timed to last unbroken until the day they meet again."
+                </i> - page 110
+            </p>
+        </p>
+    </div>
+
+    <div class="center">
+    <p><u>resources used:</u></p>
+    <p>
+    <a href="https://stackoverflow.com/questions/2257657/how-can-i-allow-text-to-wrap-inside-a-word-if-necessary">Text-wrap</a> /
+    <a href="https://www.w3schools.com/html/html_div.asp">HTML Divs</a> /
+    <a href="https://www.w3schools.com/html/html_classes.asp">Div classes</a>
+    </p>
+    </div>
+    <br />
+    <div class="center">
+        <a href="https://fgnwbsite.github.io/blogs/1.html"><< Previous</a>
+        <a href="https://fgnwbsite.github.io">Home Page</a>
+        <a href="https://fgnwbsite.github.io/blog.html">Next >></a>
+        <br /><p><i>Copyright: FGNWBSITE™ © 2026</i></p>
+    </div>
+
+
+
+</body>
+
+</html>
